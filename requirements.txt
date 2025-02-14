@@ -1,7 +1,8 @@
 streamlit
+google-generativeai
 requests
 beautifulsoup4
 pandas
 langchain
-openai
 faiss-cpu
+
