@@ -5,4 +5,5 @@ beautifulsoup4
 pandas
 langchain
 faiss-cpu
+langchain-community
 
